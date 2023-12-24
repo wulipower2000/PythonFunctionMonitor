@@ -1,0 +1,10 @@
+{
+    "host": "localhost",
+    "port": 5566,
+    "interval": 15,
+    "monitors":[
+        "folder_size"
+    ],
+    "folder_path":"./",
+    "log_path":"./var/log/"
+}
